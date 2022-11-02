@@ -1,11 +1,12 @@
 # Pet-Shop-Node-js
+Project made in the Node + Typescript course module[Still under construction!]
 Projeto feito no módulo do curso Node + Typescript[Ainda em construção!]
 
-### Pré requisitos globais:
+### Global prerequisites:
 `npm i -g nodemon typescript ts-node`
 
-### Instalação
+### Installation:
 `npm install`
 
-### Para rodar o projeto
+### To run the project:
 `npm run start-dev`
