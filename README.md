@@ -1,7 +1,7 @@
 # Pet-Shop-Node-js
-Projeto feito no módulo do curso Node + Typescript
+Projeto feito no módulo do curso Node + Typescript[Ainda em construção!]
 
-### Pré reqisitos globais:
+### Pré requisitos globais:
 `npm i -g nodemon typescript ts-node`
 
 ### Instalação
